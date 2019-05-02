@@ -2,3 +2,9 @@ Face/
 Edge/
 OpticalFlow/
 *.zip
+.vscode/
+.DS_Store
+*.txt
+*.log
+
+
