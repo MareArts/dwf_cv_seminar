@@ -1,3 +1,4 @@
-Face
-Edge
-OpticalFlow
+Face/
+Edge/
+OpticalFlow/
+*.zip
