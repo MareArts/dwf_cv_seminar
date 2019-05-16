@@ -15,6 +15,7 @@ cv2.waitKey(0)
 print(img.shape)
 #image size
 print(img.size)
+
 #image type
 print(img.dtype)
 ###########################################
@@ -40,5 +41,8 @@ pixel_B = img[100][100][0]
 pixel_G = img[100][100][1]
 pixel_R = img[100][100][2]
 ###########################################
+print(pixel_B, pixel_G, pixel_R)
+print(img[100][100])
+
 
 
