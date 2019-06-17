@@ -3,7 +3,7 @@
 ###########################################
 import cv2
 import numpy as np
-img = cv2.imread('./messi.jpg')
+img = cv2.imread('./IMG_0187.jpg')
 cv2.namedWindow('window',0)
 cv2.imshow('window', img)
 cv2.waitKey(0)
